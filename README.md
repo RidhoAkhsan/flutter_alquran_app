@@ -7,8 +7,8 @@ Flutter Tutorial for Design layouting and integration data from API purpose for 
 (Figma Link)(https://www.figma.com/community/file/1101418733985618505) 
 
 # Creator
-telegram : 
-(Saiful Bahri)[https://t.me/bahri_bhe]
+Instagram : 
+(Ridho Akhsan)[https://instagram.com/ridhoakhsan.idn]
 
 
 ## ScreenShot
